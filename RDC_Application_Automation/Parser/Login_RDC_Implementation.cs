@@ -28,6 +28,7 @@ namespace RDC_Application_Automation.Parser
         [Given(@"Go to the URL of RDC")]
         public void GivenGoToTheURLOfRDC()
         {
+            //new line added
             string URL = System.Configuration.ConfigurationSettings.AppSettings["app_url"];
             string App_Version = System.Configuration.ConfigurationSettings.AppSettings["app_version"];
             logger.Debug("Current code is running for" + App_Version);

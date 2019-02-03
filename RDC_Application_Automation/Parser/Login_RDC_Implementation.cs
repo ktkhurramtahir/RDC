@@ -30,6 +30,7 @@ namespace RDC_Application_Automation.Parser
         {
             //new line added
             // one more commit important
+            // newly commit
             string URL = System.Configuration.ConfigurationSettings.AppSettings["app_url"];
             string App_Version = System.Configuration.ConfigurationSettings.AppSettings["app_version"];
             logger.Debug("Current code is running for" + App_Version);

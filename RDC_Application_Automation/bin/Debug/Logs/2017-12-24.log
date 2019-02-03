@@ -1,0 +1,379 @@
+2017-12-24 11:53:37.2306  Current code is running for41
+2017-12-24 11:53:37.2487  ******************************
+2017-12-24 11:53:45.8583  url has been launched successfully, Please check the screenshot
+2017-12-24 11:53:45.8848  English   Found at the page in enabled form  
+2017-12-24 11:53:47.6653  English is Clicked    
+2017-12-24 11:53:50.7539  PageContent_txtUser   Found at the page in enabled form 
+2017-12-24 11:53:50.8284  hali is entered as Test Criteria   
+2017-12-24 11:53:50.8735  PageContent_txtPassword   Found at the page in enabled form 
+2017-12-24 11:53:50.9248  123 is entered as Test Criteria   
+2017-12-24 11:53:50.9632  PageContent_btnSignIn   Found at the page in enabled form 
+2017-12-24 11:53:54.4742  PageContent_btnSignIn is Clicked   
+2017-12-24 11:53:55.5124  Dash Board Loaded Properly and User is able to Login to the RDC Application
+2017-12-24 11:53:55.5124  Test Case Completed
+2017-12-24 11:53:55.5124  ******************************
+2017-12-24 11:53:55.5364  Test Case for Adding a Payment Started
+2017-12-24 11:53:55.5414  Every Step of this test case is Pre-Requisite
+2017-12-24 11:53:55.5996  New Case   Found at the page in enabled form  
+2017-12-24 11:53:56.4810  New Case is Clicked    
+2017-12-24 11:53:59.5411  PageContent_btn_1   Found at the page in enabled form 
+2017-12-24 11:54:01.3416  PageContent_btn_1 is Clicked   
+2017-12-24 11:54:02.4305  User can Add the Request
+2017-12-24 11:54:02.4652  Case Request page loaded properly
+2017-12-24 11:54:05.5107  PageContent_UCCaseRequest1_ddlRequestTypeNew   No Such element found  
+2017-12-24 11:54:10.5360  PageContent_UCCaseRequest1_ddlRequestSubTypeNew   No Such element found  
+2017-12-24 11:54:15.5562  User can Add the Request
+2017-12-24 11:54:15.5772  Document page loaded properly
+2017-12-24 11:54:18.5961  User can Add the Business Object
+2017-12-24 11:54:18.6322  Vouchers page did not load properly
+2017-12-24 11:54:18.6452  User can Add the Business Object
+2017-12-24 11:54:18.6673  Vouchers page did not load properly
+2017-12-24 11:54:18.6836  Your case has not been registered
+2017-12-24 11:55:22.6209  Current code is running for41
+2017-12-24 11:55:22.6439  ******************************
+2017-12-24 11:55:30.2871  url has been launched successfully, Please check the screenshot
+2017-12-24 11:55:30.3117  English   Found at the page in enabled form  
+2017-12-24 11:55:32.0444  English is Clicked    
+2017-12-24 11:55:35.1689  PageContent_txtUser   Found at the page in enabled form 
+2017-12-24 11:55:35.2459  hali is entered as Test Criteria   
+2017-12-24 11:55:35.3025  PageContent_txtPassword   Found at the page in enabled form 
+2017-12-24 11:55:35.3662  123 is entered as Test Criteria   
+2017-12-24 11:55:35.4003  PageContent_btnSignIn   Found at the page in enabled form 
+2017-12-24 11:55:41.5540  PageContent_btnSignIn is Clicked   
+2017-12-24 11:55:42.5840  Dash Board Loaded Properly and User is able to Login to the RDC Application
+2017-12-24 11:55:42.5890  Test Case Completed
+2017-12-24 11:55:42.5890  ******************************
+2017-12-24 11:55:42.6061  Test Case for Adding a Payment Started
+2017-12-24 11:55:42.6061  Every Step of this test case is Pre-Requisite
+2017-12-24 11:55:42.6553  New Case   Found at the page in enabled form  
+2017-12-24 11:55:43.1737  New Case is Clicked    
+2017-12-24 11:55:46.2111  PageContent_btn_1   Found at the page in enabled form 
+2017-12-24 11:55:47.8926  PageContent_btn_1 is Clicked   
+2017-12-24 11:55:48.9344  PageContent_UCSelectContractMethod1_btnEjari   Found at the page in enabled form 
+2017-12-24 11:55:49.1257  PageContent_UCSelectContractMethod1_btnEjari is Clicked   
+2017-12-24 11:55:50.1611  PageContent_UCCaseContract1_UCSelectEjariContract1_txtEjariNo   Found at the page in enabled form 
+2017-12-24 11:55:50.2621  0120130902002772 is entered as Test Criteria   
+2017-12-24 11:55:50.2875  PageContent_UCCaseContract1_UCSelectEjariContract1_txtDewa   Found at the page in enabled form 
+2017-12-24 11:55:50.3544  392029642 is entered as Test Criteria   
+2017-12-24 11:55:50.3820  PageContent_UCCaseContract1_UCSelectEjariContract1_btnRetrieve   Found at the page in enabled form 
+2017-12-24 11:55:50.4453  PageContent_UCCaseContract1_UCSelectEjariContract1_btnRetrieve is Clicked   
+2017-12-24 12:01:22.4865  Current code is running for41
+2017-12-24 12:01:22.5046  ******************************
+2017-12-24 12:01:30.5201  url has been launched successfully, Please check the screenshot
+2017-12-24 12:01:30.5444  English   Found at the page in enabled form  
+2017-12-24 12:01:32.2815  English is Clicked    
+2017-12-24 12:01:35.3707  PageContent_txtUser   Found at the page in enabled form 
+2017-12-24 12:01:35.4469  hali is entered as Test Criteria   
+2017-12-24 12:01:35.4870  PageContent_txtPassword   Found at the page in enabled form 
+2017-12-24 12:01:35.5373  123 is entered as Test Criteria   
+2017-12-24 12:01:35.5719  PageContent_btnSignIn   Found at the page in enabled form 
+2017-12-24 12:01:38.0744  PageContent_btnSignIn is Clicked   
+2017-12-24 12:01:39.1062  Dash Board Loaded Properly and User is able to Login to the RDC Application
+2017-12-24 12:01:39.1062  Test Case Completed
+2017-12-24 12:01:39.1062  ******************************
+2017-12-24 12:01:39.1302  Test Case for Adding a Payment Started
+2017-12-24 12:01:39.1302  Every Step of this test case is Pre-Requisite
+2017-12-24 12:01:39.1766  New Case   Found at the page in enabled form  
+2017-12-24 12:01:39.6968  New Case is Clicked    
+2017-12-24 12:01:42.7375  PageContent_btn_1   Found at the page in enabled form 
+2017-12-24 12:01:44.5226  PageContent_btn_1 is Clicked   
+2017-12-24 12:01:45.5751  PageContent_UCSelectContractMethod1_btnEjari   Found at the page in enabled form 
+2017-12-24 12:01:45.7763  PageContent_UCSelectContractMethod1_btnEjari is Clicked   
+2017-12-24 12:01:46.8332  PageContent_UCCaseContract1_UCSelectEjariContract1_txtEjariNo   Found at the page in enabled form 
+2017-12-24 12:01:46.9404  0120130902002772 is entered as Test Criteria   
+2017-12-24 12:01:46.9685  PageContent_UCCaseContract1_UCSelectEjariContract1_txtDewa   Found at the page in enabled form 
+2017-12-24 12:01:47.0380  392029642 is entered as Test Criteria   
+2017-12-24 12:01:47.0681  PageContent_UCCaseContract1_UCSelectEjariContract1_btnRetrieve   Found at the page in enabled form 
+2017-12-24 12:01:47.1344  PageContent_UCCaseContract1_UCSelectEjariContract1_btnRetrieve is Clicked   
+2017-12-24 12:01:50.1629  Tenancy Contract Information Found
+2017-12-24 12:01:50.1679  ******************************
+2017-12-24 12:01:50.2434  PageContent_btnNext   Found at the page in enabled form 
+2017-12-24 12:01:55.6095  PageContent_btnNext is Clicked   
+2017-12-24 12:02:00.6585  User has been Landed at Add Party Screen
+2017-12-24 12:02:00.6831  PageContent_UCCaseParty1_grdCaseParty_lnkbtnEdit_0   Found at the page in enabled form 
+2017-12-24 12:02:05.7365  PageContent_UCCaseParty1_grdCaseParty_lnkbtnEdit_0 is Clicked   
+2017-12-24 12:02:05.7518  Party Information loaded properly
+2017-12-24 12:02:08.8301  PageContent_UCCaseParty1_UCCasePartyDetail1_ddlCasePartyRole   Found and Value selected
+2017-12-24 12:02:10.9187  PageContent_UCCaseParty1_UCCasePartyDetail1_ddlCasePartyTitle   Found and Value selected
+2017-12-24 12:02:13.9644  PageContent_UCCaseParty1_UCCasePartyDetail1_btnAddPartyTitle   Found at the page in enabled form 
+2017-12-24 12:02:19.0223  PageContent_UCCaseParty1_UCCasePartyDetail1_btnAddPartyTitle is Clicked   
+2017-12-24 12:02:21.0709  PageContent_UCCaseParty1_UCCasePartyDetail1_UCPartyInfo1_UCPersonInformation1_dpIssueDate_txtDate   Found at the page in enabled form 
+2017-12-24 12:02:21.2433  01/11/2017 is entered as Test Criteria   
+2017-12-24 12:02:21.2633  PageContent_UCCaseParty1_UCCasePartyDetail1_UCPartyInfo1_UCPersonInformation1_dpIssueDate_txtDate   Found at the page in enabled form 
+2017-12-24 12:02:26.3051  PageContent_UCCaseParty1_UCCasePartyDetail1_UCPartyInfo1_UCPersonInformation1_dpIssueDate_txtDate is Clicked   
+2017-12-24 12:02:26.3289  PageContent_UCCaseParty1_UCCasePartyDetail1_UCPartyInfo1_UCPersonInformation1_dpExpiryDate_txtDate   Found at the page in enabled form 
+2017-12-24 12:02:26.4081  01/11/2022 is entered as Test Criteria   
+2017-12-24 12:02:26.4280  PageContent_UCCaseParty1_UCCasePartyDetail1_UCPartyInfo1_UCPersonInformation1_dpExpiryDate_txtDate   Found at the page in enabled form 
+2017-12-24 12:02:31.4683  PageContent_UCCaseParty1_UCCasePartyDetail1_UCPartyInfo1_UCPersonInformation1_dpExpiryDate_txtDate is Clicked   
+2017-12-24 12:02:31.4967  PageContent_UCCaseParty1_UCCasePartyDetail1_UCPartyInfo1_UCPersonInformation1_txtEmail   Found at the page in enabled form 
+2017-12-24 12:02:31.7128  khurram.tahir@eres.ae is entered as Test Criteria   
+2017-12-24 12:02:31.7864  PageContent_UCCaseParty1_UCCasePartyDetail1_UCPartyInfo1_UCPersonInformation1_ddlMobileCountryCode   Found and Value selected
+2017-12-24 12:02:31.8721  PageContent_UCCaseParty1_UCCasePartyDetail1_UCPartyInfo1_UCPersonInformation1_ddlMobileOperatorCode   Found and Value selected
+2017-12-24 12:02:31.9000  ctl00_PageContent_UCCaseParty1_UCCasePartyDetail1_UCPartyInfo1_UCPersonInformation1_txtMobileNumber   Found at the page in enabled form 
+2017-12-24 12:02:32.0002  9073880 is entered as Test Criteria   
+2017-12-24 12:02:32.0263  PageContent_UCCaseParty1_UCCasePartyDetail1_UCPartyInfo1_UCPersonInformation1_txtAddress   Found at the page in enabled form 
+2017-12-24 12:02:32.0826  Dubai is entered as Test Criteria   
+2017-12-24 12:02:32.1072  PageContent_UCCaseParty1_UCCasePartyDetail1_UCPartyInfo1_UCPersonInformation1_txtEmirateID   Found at the page in enabled form 
+2017-12-24 12:02:32.2732  123456789012345 is entered as Test Criteria   
+2017-12-24 12:02:32.2982  PageContent_UCCaseParty1_UCCasePartyDetail1_UCPartyInfo1_UCPersonInformation1_txtPassportNum   Found at the page in enabled form 
+2017-12-24 12:02:32.4175  Passport0 is entered as Test Criteria   
+2017-12-24 12:02:32.4496  PageContent_UCCaseParty1_UCCasePartyDetail1_UCPartyInfo1_UCPersonInformation1_dpExpiryDate_txtDate   Found at the page in enabled form 
+2017-12-24 12:02:37.5000  PageContent_UCCaseParty1_UCCasePartyDetail1_UCPartyInfo1_UCPersonInformation1_dpExpiryDate_txtDate is Clicked   
+2017-12-24 12:02:37.5251  PageContent_UCCaseParty1_UCCasePartyDetail1_btnSaveParty   Found at the page in enabled form 
+2017-12-24 12:02:42.5869  PageContent_UCCaseParty1_UCCasePartyDetail1_btnSaveParty is Clicked   
+2017-12-24 12:02:45.6204  is already exist in the system, please reload or cancel.
+2017-12-24 12:02:45.6204  Party data already exist
+2017-12-24 12:02:45.6515  PageContent_UCCaseParty1_UCCasePartyDetail1_UCPartyInfo1_UCPersonInformation1_btnDialogReload   Found at the page in enabled form 
+2017-12-24 12:02:50.7085  PageContent_UCCaseParty1_UCCasePartyDetail1_UCPartyInfo1_UCPersonInformation1_btnDialogReload is Clicked   
+2017-12-24 12:02:52.7358  PageContent_UCCaseParty1_UCCasePartyDetail1_btnSaveParty   Found at the page in enabled form 
+2017-12-24 12:02:57.8136  PageContent_UCCaseParty1_UCCasePartyDetail1_btnSaveParty is Clicked   
+2017-12-24 12:02:59.8441  PageContent_UCCaseParty1_grdCaseParty_lnkbtnEdit_1   Found at the page in enabled form 
+2017-12-24 12:03:04.9147  PageContent_UCCaseParty1_grdCaseParty_lnkbtnEdit_1 is Clicked   
+2017-12-24 12:03:04.9417  Party Information loaded properly
+2017-12-24 12:03:08.0306  PageContent_UCCaseParty1_UCCasePartyDetail1_ddlCasePartyRole   Found and Value selected
+2017-12-24 12:03:10.1318  PageContent_UCCaseParty1_UCCasePartyDetail1_ddlCasePartyTitle   Found and Value selected
+2017-12-24 12:03:13.2514  PageContent_UCCaseParty1_UCCasePartyDetail1_btnAddPartyTitle   Found at the page in enabled form 
+2017-12-24 12:03:18.3234  PageContent_UCCaseParty1_UCCasePartyDetail1_btnAddPartyTitle is Clicked   
+2017-12-24 12:03:21.3526  PageContent_UCCaseParty1_UCCasePartyDetail1_UCPartyInfo1_UCPersonInformation1_dpIssueDate_txtDate   Found at the page in enabled form 
+2017-12-24 12:03:21.4530  01/11/2016 is entered as Test Criteria   
+2017-12-24 12:03:21.4727  PageContent_UCCaseParty1_UCCasePartyDetail1_UCPartyInfo1_UCPersonInformation1_dpIssueDate_txtDate   Found at the page in enabled form 
+2017-12-24 12:03:26.5339  PageContent_UCCaseParty1_UCCasePartyDetail1_UCPartyInfo1_UCPersonInformation1_dpIssueDate_txtDate is Clicked   
+2017-12-24 12:03:26.5660  PageContent_UCCaseParty1_UCCasePartyDetail1_UCPartyInfo1_UCPersonInformation1_dpExpiryDate_txtDate   Found at the page in enabled form 
+2017-12-24 12:03:26.6837  01/11/2021 is entered as Test Criteria   
+2017-12-24 12:03:26.7108  PageContent_UCCaseParty1_UCCasePartyDetail1_UCPartyInfo1_UCPersonInformation1_dpExpiryDate_txtDate   Found at the page in enabled form 
+2017-12-24 12:03:31.7711  PageContent_UCCaseParty1_UCCasePartyDetail1_UCPartyInfo1_UCPersonInformation1_dpExpiryDate_txtDate is Clicked   
+2017-12-24 12:03:31.8207  PageContent_UCCaseParty1_UCCasePartyDetail1_UCPartyInfo1_UCPersonInformation1_txtEmail   Found at the page in enabled form 
+2017-12-24 12:03:32.0507  khurram.tahir@eres.ae is entered as Test Criteria   
+2017-12-24 12:03:32.1036  PageContent_UCCaseParty1_UCCasePartyDetail1_UCPartyInfo1_UCPersonInformation1_ddlMobileCountryCode   Found and Value selected
+2017-12-24 12:03:32.1838  PageContent_UCCaseParty1_UCCasePartyDetail1_UCPartyInfo1_UCPersonInformation1_ddlMobileOperatorCode   Found and Value selected
+2017-12-24 12:03:32.2129  ctl00_PageContent_UCCaseParty1_UCCasePartyDetail1_UCPartyInfo1_UCPersonInformation1_txtMobileNumber   Found at the page in enabled form 
+2017-12-24 12:03:32.2578  1234567 is entered as Test Criteria   
+2017-12-24 12:03:32.2879  Address already entered and control is disable
+2017-12-24 12:03:32.3178  PageContent_UCCaseParty1_UCCasePartyDetail1_UCPartyInfo1_UCPersonInformation1_txtEmirateID   Found at the page in enabled form 
+2017-12-24 12:03:32.4805  123456789012346 is entered as Test Criteria   
+2017-12-24 12:03:32.5046  Passport already entered and control is disable
+2017-12-24 12:03:32.5347  PageContent_UCCaseParty1_UCCasePartyDetail1_UCPartyInfo1_UCPersonInformation1_dpExpiryDate_txtDate   Found at the page in enabled form 
+2017-12-24 12:03:37.5837  PageContent_UCCaseParty1_UCCasePartyDetail1_UCPartyInfo1_UCPersonInformation1_dpExpiryDate_txtDate is Clicked   
+2017-12-24 12:03:37.6158  PageContent_UCCaseParty1_UCCasePartyDetail1_btnSaveParty   Found at the page in enabled form 
+2017-12-24 12:03:42.6737  PageContent_UCCaseParty1_UCCasePartyDetail1_btnSaveParty is Clicked   
+2017-12-24 12:03:45.7331  PageContent_UCCaseParty1_grdCaseParty_lnkDelete_2   Found at the page in enabled form 
+2017-12-24 12:03:50.7958  PageContent_UCCaseParty1_grdCaseParty_lnkDelete_2 is Clicked   
+2017-12-24 12:03:54.8864  PageContent_UCCaseParty1_chkTermAndCondition   Found at the page in enabled form 
+2017-12-24 12:03:59.9383  PageContent_UCCaseParty1_chkTermAndCondition is Clicked   
+2017-12-24 12:03:59.9743  PageContent_btnNext   Found at the page in enabled form 
+2017-12-24 12:04:05.5103  PageContent_btnNext is Clicked   
+2017-12-24 12:04:05.5103  Test Case Completed, Business Object Added
+2017-12-24 12:04:05.5103  ******************************
+2017-12-24 12:04:08.5306  User can Add the Request
+2017-12-24 12:04:08.5827  Case Request page loaded properly
+2017-12-24 12:04:11.6733  PageContent_UCCaseRequest1_ddlRequestTypeNew   Found and Value selected
+2017-12-24 12:04:16.7474  PageContent_UCCaseRequest1_ddlRequestSubTypeNew   Found and Value selected
+2017-12-24 12:04:21.7740  PageContent_UCCaseRequest1_btnAddRequest   Found at the page in enabled form 
+2017-12-24 12:04:22.4474  PageContent_UCCaseRequest1_btnAddRequest is Clicked   
+2017-12-24 12:04:25.4773  PageContent_btnNext   Found at the page in enabled form 
+2017-12-24 12:04:27.2096  PageContent_btnNext is Clicked   
+2017-12-24 12:04:27.2177  Test Case Completed, Business Object Added
+2017-12-24 12:04:27.2177  ******************************
+2017-12-24 12:04:30.2369  User can Add the Request
+2017-12-24 12:04:30.2695  Document page loaded properly
+2017-12-24 12:04:33.2929  PageContent_btnNext   Found at the page in enabled form 
+2017-12-24 12:04:34.8019  PageContent_btnNext is Clicked   
+2017-12-24 12:04:34.8109  Test Case Completed, Business Object Added
+2017-12-24 12:04:34.8109  ******************************
+2017-12-24 12:04:37.8268  User can Add the Business Object
+2017-12-24 12:04:37.8519   Page loaded properly
+2017-12-24 12:04:40.9300  ctl00_PageContent_UCCaseVoucher1_grdVoucherDetails_ctl00_ctl04_ddlPartyName   Found and Value selected
+2017-12-24 12:04:42.9799  PageContent_btnNext   Found at the page in enabled form 
+2017-12-24 12:04:44.9983  PageContent_btnNext is Clicked   
+2017-12-24 12:04:44.9983  Test Case Completed, Business Object Added
+2017-12-24 12:04:45.0211  ******************************
+2017-12-24 12:04:48.0307  User can Add the Business Object
+2017-12-24 12:04:48.0704   Page loaded properly
+2017-12-24 12:04:51.0912  ctl00_PageContent_UCCaseVoucher1_grdVoucherDetails_ctl00_ctl04_ddlPartyName   No Such element found  
+2017-12-24 12:04:53.1342  PageContent_btnSubmitCase   Found at the page in enabled form 
+2017-12-24 12:04:58.8355  PageContent_btnSubmitCase is Clicked   
+2017-12-24 12:04:58.8435  Test Case Completed, Business Object Added
+2017-12-24 12:04:58.8435  ******************************
+2017-12-24 12:05:03.8902  Your case has not been registered
+2017-12-24 12:05:06.9158  PageContent_UCCaseSaveResult1_btnPay   Found at the page in enabled form 
+2017-12-24 12:05:06.9639  PageContent_UCCaseSaveResult1_btnPay is Clicked   
+2017-12-24 12:05:10.9969  PageContent_cbDisclaimerAgree   Found at the page in enabled form 
+2017-12-24 12:05:11.0696  PageContent_cbDisclaimerAgree is Clicked   
+2017-12-24 12:05:11.1067  PageContent_btnOnlinePayment   Found at the page in enabled form 
+2017-12-24 12:05:11.1709  PageContent_btnOnlinePayment is Clicked   
+2017-12-24 12:05:26.4818  btnPayNow   Found at the page in enabled form 
+2017-12-24 12:05:34.3059  btnPayNow is Clicked   
+2017-12-24 12:05:37.3381  userId   Found at the page in enabled form 
+2017-12-24 12:05:37.3926  DW190134 is entered as Test Criteria   
+2017-12-24 12:05:37.4252  rawPasscode   Found at the page in enabled form 
+2017-12-24 12:05:37.4982  P@ss1234 is entered as Test Criteria   
+2017-12-24 12:05:40.5434  paymentForm:loginButton   Found at the page in enabled form 
+2017-12-24 12:05:40.5905  paymentForm:loginButton is Clicked   
+2017-12-24 12:05:44.6190  payNow   Found at the page in enabled form 
+2017-12-24 12:05:45.7696  payNow is Clicked   
+2017-12-24 12:05:53.1426  Payment has been completed
+2017-12-24 12:05:53.1426  ******************************
+2017-12-24 12:37:18.3585  Current code is running for41
+2017-12-24 12:37:18.3815  ******************************
+2017-12-24 12:37:29.2974  Current code is running for41
+2017-12-24 12:37:29.3179  ******************************
+2017-12-24 12:37:37.7861  Current code is running for41
+2017-12-24 12:37:37.8051  ******************************
+2017-12-24 12:37:52.7136  Current code is running for41
+2017-12-24 12:37:52.7317  ******************************
+2017-12-24 12:38:00.9218  url has been launched successfully, Please check the screenshot
+2017-12-24 12:38:00.9478  English   Found at the page in enabled form  
+2017-12-24 12:38:02.0398  English is Clicked    
+2017-12-24 12:38:05.1540  PageContent_txtUser   Found at the page in enabled form 
+2017-12-24 12:38:05.2322  hali is entered as Test Criteria   
+2017-12-24 12:38:05.2709  PageContent_txtPassword   Found at the page in enabled form 
+2017-12-24 12:38:05.3404  123 is entered as Test Criteria   
+2017-12-24 12:38:05.3745  PageContent_btnSignIn   Found at the page in enabled form 
+2017-12-24 12:38:39.2051  PageContent_btnSignIn is Clicked   
+2017-12-24 12:38:40.2358  Dash Board Loaded Properly and User is able to Login to the RDC Application
+2017-12-24 12:38:40.2358  Test Case Completed
+2017-12-24 12:38:40.2358  ******************************
+2017-12-24 12:38:40.2598  Test Case for Adding a Payment Started
+2017-12-24 12:38:40.2598  Every Step of this test case is Pre-Requisite
+2017-12-24 12:38:40.3045  New Case   Found at the page in enabled form  
+2017-12-24 12:38:55.6470  New Case is Clicked    
+2017-12-24 12:38:58.6784  PageContent_btn_2   Found at the page in enabled form 
+2017-12-24 12:39:00.6571  PageContent_btn_2 is Clicked   
+2017-12-24 12:39:03.6959  PageContent_UCRequestStartPoint1_rblRegistrationBasedOn_2   Found at the page in enabled form 
+2017-12-24 12:39:03.7361  PageContent_UCRequestStartPoint1_rblRegistrationBasedOn_2 is Clicked   
+2017-12-24 12:39:06.7807  PageContent_btnNext   Found at the page in enabled form 
+2017-12-24 12:39:07.0797  PageContent_btnNext is Clicked   
+2017-12-24 12:39:07.0797  Test Case Completed, Business Object Added
+2017-12-24 12:39:07.0998  ******************************
+2017-12-24 12:39:10.1522  PageContent_UCSelectContractMethod1_btnNoEjari   Found at the page in enabled form 
+2017-12-24 12:39:10.4316  PageContent_UCSelectContractMethod1_btnNoEjari is Clicked   
+2017-12-24 12:39:11.4680  PageContent_btnNext   Found at the page in enabled form 
+2017-12-24 12:39:11.5103  PageContent_btnNext is Clicked   
+2017-12-24 12:39:11.5164  Test Case Completed, Business Object Added
+2017-12-24 12:39:11.5164  ******************************
+2017-12-24 13:45:19.0515  Current code is running for41
+2017-12-24 13:45:19.0685  ******************************
+2017-12-24 13:45:47.8155  url has been launched successfully, Please check the screenshot
+2017-12-24 13:45:47.8381  English   Found at the page in enabled form  
+2017-12-24 13:45:49.4844  English is Clicked    
+2017-12-24 13:45:52.5636  PageContent_txtUser   Found at the page in enabled form 
+2017-12-24 13:45:52.6250  hali is entered as Test Criteria   
+2017-12-24 13:45:52.6567  PageContent_txtPassword   Found at the page in enabled form 
+2017-12-24 13:45:52.7078  123 is entered as Test Criteria   
+2017-12-24 13:45:52.7371  PageContent_btnSignIn   Found at the page in enabled form 
+2017-12-24 13:45:57.9018  PageContent_btnSignIn is Clicked   
+2017-12-24 13:45:58.9323  Dash Board Loaded Properly and User is able to Login to the RDC Application
+2017-12-24 13:45:58.9323  Test Case Completed
+2017-12-24 13:45:58.9428  ******************************
+2017-12-24 13:45:58.9428  Test Case for Adding a Payment Started
+2017-12-24 13:45:58.9598  Every Step of this test case is Pre-Requisite
+2017-12-24 13:45:58.9929  New Case   Found at the page in enabled form  
+2017-12-24 13:45:59.5612  New Case is Clicked    
+2017-12-24 13:46:02.5914  PageContent_btn_2   Found at the page in enabled form 
+2017-12-24 13:46:05.6750  PageContent_btn_2 is Clicked   
+2017-12-24 13:46:08.7033  PageContent_UCRequestStartPoint1_rblRegistrationBasedOn_2   Found at the page in enabled form 
+2017-12-24 13:46:08.7392  PageContent_UCRequestStartPoint1_rblRegistrationBasedOn_2 is Clicked   
+2017-12-24 13:46:11.7653  PageContent_btnNext   Found at the page in enabled form 
+2017-12-24 13:46:11.9530  PageContent_btnNext is Clicked   
+2017-12-24 13:46:11.9600  Test Case Completed, Business Object Added
+2017-12-24 13:46:11.9600  ******************************
+2017-12-24 13:46:15.0205  PageContent_UCSelectContractMethod1_btnNoEjari   Found at the page in enabled form 
+2017-12-24 13:46:15.2318  PageContent_UCSelectContractMethod1_btnNoEjari is Clicked   
+2017-12-24 13:46:16.2668  PageContent_btnNext   Found at the page in enabled form 
+2017-12-24 13:46:16.3076  PageContent_btnNext is Clicked   
+2017-12-24 13:46:16.3076  Test Case Completed, Business Object Added
+2017-12-24 13:46:16.3076  ******************************
+2017-12-24 13:46:22.3458  PageContent_UCCaseContract1_UCContractInfo1_txtContractValue   Found at the page in enabled form 
+2017-12-24 13:46:22.4065  100000 is entered as Test Criteria   
+2017-12-24 13:46:22.4309  PageContent_UCCaseContract1_UCContractInfo1_dpStartDate_txtDate   Found at the page in enabled form 
+2017-12-24 13:46:22.4712  PageContent_UCCaseContract1_UCContractInfo1_dpStartDate_txtDate is Clicked   
+2017-12-24 13:46:22.4888  PageContent_UCCaseContract1_UCContractInfo1_dpStartDate_txtDate   Found at the page in enabled form 
+2017-12-24 13:46:22.6143  01/01/2018 is entered as Test Criteria   
+2017-12-24 13:46:22.6494  PageContent_UCCaseContract1_UCContractInfo1_dpEndDate_txtDate   Found at the page in enabled form 
+2017-12-24 13:46:22.6947  PageContent_UCCaseContract1_UCContractInfo1_dpEndDate_txtDate is Clicked   
+2017-12-24 13:46:22.7197  PageContent_UCCaseContract1_UCContractInfo1_dpEndDate_txtDate   Found at the page in enabled form 
+2017-12-24 13:46:22.8247  31/12/2018 is entered as Test Criteria   
+2017-12-24 13:46:22.8557  PageContent_UCCaseContract1_UCContractInfo1_btnCalculateAnnualAmount   Found at the page in enabled form 
+2017-12-24 13:46:22.9006  PageContent_UCCaseContract1_UCContractInfo1_btnCalculateAnnualAmount is Clicked   
+2017-12-24 13:47:55.4208  Current code is running for41
+2017-12-24 13:47:55.4369  ******************************
+2017-12-24 13:48:03.1220  url has been launched successfully, Please check the screenshot
+2017-12-24 13:48:03.1431  English   Found at the page in enabled form  
+2017-12-24 13:48:04.8006  English is Clicked    
+2017-12-24 13:48:07.8811  PageContent_txtUser   Found at the page in enabled form 
+2017-12-24 13:48:07.9413  hali is entered as Test Criteria   
+2017-12-24 13:48:07.9794  PageContent_txtPassword   Found at the page in enabled form 
+2017-12-24 13:48:08.0235  123 is entered as Test Criteria   
+2017-12-24 13:48:08.0554  PageContent_btnSignIn   Found at the page in enabled form 
+2017-12-24 13:48:11.0938  PageContent_btnSignIn is Clicked   
+2017-12-24 13:48:12.1251  Dash Board Loaded Properly and User is able to Login to the RDC Application
+2017-12-24 13:48:12.1251  Test Case Completed
+2017-12-24 13:48:12.1351  ******************************
+2017-12-24 13:48:12.1477  Test Case for Adding a Payment Started
+2017-12-24 13:48:12.1477  Every Step of this test case is Pre-Requisite
+2017-12-24 13:48:12.1878  New Case   Found at the page in enabled form  
+2017-12-24 13:48:12.7110  New Case is Clicked    
+2017-12-24 13:48:15.7386  PageContent_btn_2   Found at the page in enabled form 
+2017-12-24 13:48:17.0578  PageContent_btn_2 is Clicked   
+2017-12-24 13:48:20.1081  PageContent_UCRequestStartPoint1_rblRegistrationBasedOn_2   Found at the page in enabled form 
+2017-12-24 13:48:20.1453  PageContent_UCRequestStartPoint1_rblRegistrationBasedOn_2 is Clicked   
+2017-12-24 13:48:23.1743  PageContent_btnNext   Found at the page in enabled form 
+2017-12-24 13:48:23.3483  PageContent_btnNext is Clicked   
+2017-12-24 13:48:23.3614  Test Case Completed, Business Object Added
+2017-12-24 13:48:23.3684  ******************************
+2017-12-24 13:48:26.4189  PageContent_UCSelectContractMethod1_btnNoEjari   Found at the page in enabled form 
+2017-12-24 13:48:26.6879  PageContent_UCSelectContractMethod1_btnNoEjari is Clicked   
+2017-12-24 13:48:30.7190  PageContent_UCCaseContract1_UCContractInfo1_txtContractValue   Found at the page in enabled form 
+2017-12-24 13:48:30.7821  100000 is entered as Test Criteria   
+2017-12-24 13:48:30.8064  PageContent_UCCaseContract1_UCContractInfo1_dpStartDate_txtDate   Found at the page in enabled form 
+2017-12-24 13:48:30.8567  PageContent_UCCaseContract1_UCContractInfo1_dpStartDate_txtDate is Clicked   
+2017-12-24 13:48:30.8717  PageContent_UCCaseContract1_UCContractInfo1_dpStartDate_txtDate   Found at the page in enabled form 
+2017-12-24 13:48:30.9741  01/01/2018 is entered as Test Criteria   
+2017-12-24 13:48:31.0042  PageContent_UCCaseContract1_UCContractInfo1_dpEndDate_txtDate   Found at the page in enabled form 
+2017-12-24 13:48:31.0548  PageContent_UCCaseContract1_UCContractInfo1_dpEndDate_txtDate is Clicked   
+2017-12-24 13:48:31.0718  PageContent_UCCaseContract1_UCContractInfo1_dpEndDate_txtDate   Found at the page in enabled form 
+2017-12-24 13:48:31.1755  31/12/2018 is entered as Test Criteria   
+2017-12-24 13:48:31.2040  PageContent_UCCaseContract1_UCContractInfo1_btnCalculateAnnualAmount   Found at the page in enabled form 
+2017-12-24 13:48:31.2701  PageContent_UCCaseContract1_UCContractInfo1_btnCalculateAnnualAmount is Clicked   
+2017-12-24 13:48:31.2916  PageContent_btnNext   Found at the page in enabled form 
+2017-12-24 13:49:04.4861  Current code is running for41
+2017-12-24 13:49:04.5026  ******************************
+2017-12-24 13:49:12.3657  url has been launched successfully, Please check the screenshot
+2017-12-24 13:49:12.3902  English   Found at the page in enabled form  
+2017-12-24 13:49:13.7426  English is Clicked    
+2017-12-24 13:49:16.8244  PageContent_txtUser   Found at the page in enabled form 
+2017-12-24 13:49:16.8806  hali is entered as Test Criteria   
+2017-12-24 13:49:16.9092  PageContent_txtPassword   Found at the page in enabled form 
+2017-12-24 13:49:16.9538  123 is entered as Test Criteria   
+2017-12-24 13:49:16.9819  PageContent_btnSignIn   Found at the page in enabled form 
+2017-12-24 13:49:19.7380  PageContent_btnSignIn is Clicked   
+2017-12-24 13:49:20.7584  Dash Board Loaded Properly and User is able to Login to the RDC Application
+2017-12-24 13:49:20.7584  Test Case Completed
+2017-12-24 13:49:20.7584  ******************************
+2017-12-24 13:49:20.7804  Test Case for Adding a Payment Started
+2017-12-24 13:49:20.7804  Every Step of this test case is Pre-Requisite
+2017-12-24 13:49:20.8188  New Case   Found at the page in enabled form  
+2017-12-24 13:49:21.6445  New Case is Clicked    
+2017-12-24 13:49:24.6741  PageContent_btn_2   Found at the page in enabled form 
+2017-12-24 13:49:26.0770  PageContent_btn_2 is Clicked   
+2017-12-24 13:49:29.1170  PageContent_UCRequestStartPoint1_rblRegistrationBasedOn_2   Found at the page in enabled form 
+2017-12-24 13:49:29.1533  PageContent_UCRequestStartPoint1_rblRegistrationBasedOn_2 is Clicked   
+2017-12-24 13:49:32.1853  PageContent_btnNext   Found at the page in enabled form 
+2017-12-24 13:49:32.3791  PageContent_btnNext is Clicked   
+2017-12-24 13:49:32.3896  Test Case Completed, Business Object Added
+2017-12-24 13:49:32.3982  ******************************
+2017-12-24 13:49:35.4409  PageContent_UCSelectContractMethod1_btnNoEjari   Found at the page in enabled form 
+2017-12-24 13:49:35.6575  PageContent_UCSelectContractMethod1_btnNoEjari is Clicked   
+2017-12-24 13:49:39.6877  PageContent_UCCaseContract1_UCContractInfo1_txtContractValue   Found at the page in enabled form 
+2017-12-24 13:49:39.7581  100000 is entered as Test Criteria   
+2017-12-24 13:49:39.7842  PageContent_UCCaseContract1_UCContractInfo1_dpStartDate_txtDate   Found at the page in enabled form 
+2017-12-24 13:49:39.8338  PageContent_UCCaseContract1_UCContractInfo1_dpStartDate_txtDate is Clicked   
+2017-12-24 13:49:39.8528  PageContent_UCCaseContract1_UCContractInfo1_dpStartDate_txtDate   Found at the page in enabled form 
+2017-12-24 13:49:39.9901  01/01/2018 is entered as Test Criteria   
+2017-12-24 13:49:40.0369  PageContent_UCCaseContract1_UCContractInfo1_dpEndDate_txtDate   Found at the page in enabled form 
+2017-12-24 13:49:40.0825  PageContent_UCCaseContract1_UCContractInfo1_dpEndDate_txtDate is Clicked   
+2017-12-24 13:49:40.1131  PageContent_UCCaseContract1_UCContractInfo1_dpEndDate_txtDate   Found at the page in enabled form 
+2017-12-24 13:49:40.2278  31/12/2018 is entered as Test Criteria   
+2017-12-24 13:49:40.2559  PageContent_UCCaseContract1_UCContractInfo1_btnCalculateAnnualAmount   Found at the page in enabled form 
+2017-12-24 13:49:40.3121  PageContent_UCCaseContract1_UCContractInfo1_btnCalculateAnnualAmount is Clicked   
+2017-12-24 13:49:40.3332  PageContent_btnNext   Found at the page in enabled form 

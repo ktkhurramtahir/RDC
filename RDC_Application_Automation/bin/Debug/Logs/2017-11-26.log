@@ -1,0 +1,78 @@
+2017-11-26 16:11:56.7509  Current code is running for41
+2017-11-26 16:11:56.7975  ******************************
+2017-11-26 16:12:05.2369  url has been launched successfully, Please check the screenshot
+2017-11-26 16:12:05.4083  English   Found at the page in enabled form  
+2017-11-26 16:13:53.9179  Current code is running for41
+2017-11-26 16:13:53.9370  ******************************
+2017-11-26 16:14:01.6852  url has been launched successfully, Please check the screenshot
+2017-11-26 16:14:04.8845     Found at the page in enabled form 
+2017-11-26 16:14:05.0566  hali is entered as Test Criteria   
+2017-11-26 16:14:05.1655     Found at the page in enabled form 
+2017-11-26 16:14:05.2676  123 is entered as Test Criteria   
+2017-11-26 16:14:05.3869     Found at the page in enabled form 
+2017-11-26 16:14:08.5676  Test Case for Adding a Mediation Case Started
+2017-11-26 16:14:33.4042  Current code is running for41
+2017-11-26 16:14:33.4232  ******************************
+2017-11-26 16:14:40.7366  url has been launched successfully, Please check the screenshot
+2017-11-26 16:14:40.7885  English   Found at the page in enabled form  
+2017-11-26 16:14:42.4407  Test Case for Adding a Mediation Case Started
+2017-11-26 16:15:37.2400  Current code is running for41
+2017-11-26 16:15:37.2580  ******************************
+2017-11-26 16:15:44.7536  url has been launched successfully, Please check the screenshot
+2017-11-26 16:15:44.8058  English   Found at the page in enabled form  
+2017-11-26 16:15:46.6744  Test Case for Adding a Mediation Case Started
+2017-11-26 16:17:14.3341  Current code is running for41
+2017-11-26 16:17:14.3521  ******************************
+2017-11-26 16:17:22.1641  url has been launched successfully, Please check the screenshot
+2017-11-26 16:17:22.1900  English   Found at the page in enabled form  
+2017-11-26 16:17:23.6705  English is Clicked    
+2017-11-26 16:17:26.8164     Found at the page in enabled form 
+2017-11-26 16:17:26.9080  hali is entered as Test Criteria   
+2017-11-26 16:17:26.9935     Found at the page in enabled form 
+2017-11-26 16:17:27.0594  123 is entered as Test Criteria   
+2017-11-26 16:17:27.1317     Found at the page in enabled form 
+2017-11-26 16:17:30.8835  Test Case for Adding a Mediation Case Started
+2017-11-26 16:17:30.9512  New Case   Found at the page in enabled form  
+2017-11-26 16:17:31.7243  New Case is Clicked    
+2017-11-26 16:17:32.7811  Mediation Case   Found at the page in enabled form 
+2017-11-26 16:18:01.6610  Current code is running for41
+2017-11-26 16:18:01.6821  ******************************
+2017-11-26 16:18:09.5005  url has been launched successfully, Please check the screenshot
+2017-11-26 16:18:09.5381  English   Found at the page in enabled form  
+2017-11-26 16:18:11.0684  English is Clicked    
+2017-11-26 16:18:14.2253     Found at the page in enabled form 
+2017-11-26 16:18:14.3057  hali is entered as Test Criteria   
+2017-11-26 16:18:14.3871     Found at the page in enabled form 
+2017-11-26 16:18:14.4535  123 is entered as Test Criteria   
+2017-11-26 16:18:14.5233     Found at the page in enabled form 
+2017-11-26 16:18:17.0660  Test Case for Adding a Mediation Case Started
+2017-11-26 16:18:17.1440  New Case   Found at the page in enabled form  
+2017-11-26 16:18:17.7247  New Case is Clicked    
+2017-11-26 16:18:18.8092  Mediation Case   Found at the page in enabled form 
+2017-11-26 16:22:32.4102  Current code is running for41
+2017-11-26 16:22:32.4282  ******************************
+2017-11-26 16:22:39.9137  url has been launched successfully, Please check the screenshot
+2017-11-26 16:22:39.9487  English   Found at the page in enabled form  
+2017-11-26 16:22:41.7193  English is Clicked    
+2017-11-26 16:22:44.8661  PageContent_txtUser   Found at the page in enabled form 
+2017-11-26 16:22:44.9814  hali is entered as Test Criteria   
+2017-11-26 16:22:45.0381  PageContent_txtPassword   Found at the page in enabled form 
+2017-11-26 16:22:45.1180  123 is entered as Test Criteria   
+2017-11-26 16:22:45.1653  PageContent_btnSignIn   Found at the page in enabled form 
+2017-11-26 16:22:47.5311  PageContent_btnSignIn is Clicked   
+2017-11-26 16:22:48.5623  Dash Board Loaded Properly and User is able to Login to the RDC Application
+2017-11-26 16:22:48.5623  Test Case Completed
+2017-11-26 16:22:48.5713  ******************************
+2017-11-26 16:22:48.5854  Test Case for Adding a Mediation Case Started
+2017-11-26 16:22:48.6460  New Case   Found at the page in enabled form  
+2017-11-26 16:22:49.2230  New Case is Clicked    
+2017-11-26 16:22:50.2883  PageContent_btn_1   Found at the page in enabled form 
+2017-11-26 16:22:51.6215  PageContent_btn_1 is Clicked   
+2017-11-26 16:22:52.6869  PageContent_UCSelectContractMethod1_btnEjari   Found at the page in enabled form 
+2017-11-26 16:22:52.9001  PageContent_UCSelectContractMethod1_btnEjari is Clicked   
+2017-11-26 16:22:53.9600  PageContent_UCCaseContract1_UCSelectEjariContract1_txtEjariNo   Found at the page in enabled form 
+2017-11-26 16:22:54.1085  0220150228000711 is entered as Test Criteria   
+2017-11-26 16:22:54.1491  PageContent_UCCaseContract1_UCSelectEjariContract1_txtDewa   Found at the page in enabled form 
+2017-11-26 16:22:54.2430  243013116 is entered as Test Criteria   
+2017-11-26 16:22:54.2869  PageContent_UCCaseContract1_UCSelectEjariContract1_btnRetrieve   Found at the page in enabled form 
+2017-11-26 16:22:54.3684  PageContent_UCCaseContract1_UCSelectEjariContract1_btnRetrieve is Clicked   
